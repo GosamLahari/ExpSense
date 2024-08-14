@@ -1,6 +1,5 @@
 # ExpSense
 "ExpSense" is a modern, streamlined application designed to help individuals and businesses efficiently manage and track their expenses. The name "ExpSense" cleverly combines "expense" with "sense," emphasizing a smart, intuitive approach to financial management.
-Key Features:
 User-Friendly Interface: Offers a simple and intuitive design that allows users to easily log and categorize their expenses.
 Real-Time Tracking: Provides up-to-date insights into spending habits, helping users stay on top of their financial goals.
 Detailed Reports: Generates comprehensive reports that summarize spending patterns, helping users make informed financial decisions.
